@@ -1,0 +1,13 @@
+{
+  "name": "pacman-gta",
+  "version": "1.0.0",
+  "description": "Pac-Man style GTA mini-game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
